@@ -6,4 +6,6 @@ Scrapes all financial news release dates and times from forexfactory.com and sav
    - selenium 
    - numpy
 
-The v1 of this program is very slow, inefficient and poorly written, where are the v2 has a few improvments and uses different, faster libraries. 
+The v1 of this program is very slow, inefficient and poorly written, where are the v2 has a few improvments and uses different, faster libraries. v3 is the newest, and has a few improvements on version 3.  
+
+
